@@ -4,11 +4,8 @@
 ---
 
 ## Overview
+Using Valgrind to correct errors, for week 5 assignment of ENPM 808X course.
 
-Simple starter C++ project with:
-
-- cmake
-- googletest
 
 ## Standard install via command-line
 ```
