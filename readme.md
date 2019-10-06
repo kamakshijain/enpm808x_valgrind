@@ -1,5 +1,5 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/kamakshijain/enpm808x_valgrind.svg?branch=master)](https://travis-ci.org/kamakshijain/enpm808x_valgrind)
+[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/kamakshijain/enpm808x_valgrind/badge.svg?branch=master)](https://coveralls.io/github/kamakshijain/enpm808x_valgrind?branch=master)
 ---
 
